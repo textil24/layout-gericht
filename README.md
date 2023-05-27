@@ -1,6 +1,6 @@
 # Верстка Gericht
 
-![Без имени](https://github.com/textil24/layout-metavarse/assets/77049921/4b817e26-3318-4962-bd4b-ad0c7e0844c2)
+![Без имени](https://github.com/textil24/layout-gericht/assets/77049921/b2ce09a5-11ec-43d8-8ad7-0ca7ef29509d)
 
 # Стек:
 
